@@ -1,7 +1,5 @@
 This repository is a placeholder. Although the project is in active development, there are no plans to upload it until a stable, usable point has been reached, OR there is significant interest from other developers in contributing. This decision has been made because of the numerous Stars! clone projects that have failed, stalled, or been abandoned over the last 20 years.
 
-Current development status: Ruleset systems ~95% complete, with only a few game features to be implemented later on (i.e. minefields, traders). Full ruleset editor and library management system complete to same level as rulesets themselves. Debugging user-scriptable functions. Classic Stars Ruleset built including all technologies and components. Map display functional, UI design testing in progress. Design considerations on how to implement customizable graphics in progress.
-
 ---
 
 # StarsNT
@@ -15,3 +13,9 @@ The StarsNT "engine" is based on rulesets. Rulesets define everything in the gam
 StarsNT is written using PHP 5.5 and Yii 2.0, and makes extensive use of the technologies behind HTML 5, CSS 3, and JavaScript.
 
 Those wishing to learn more or contribute can contact me directly at hilton@janfield.ca.
+
+## Status
+
+Very brief/minimal details on project status.
+
+Current development status: Ruleset systems ~95% complete, with only a few game features to be implemented later on (i.e. minefields, traders). Full ruleset editor and library management system complete to same level as rulesets themselves. Debugging user-scriptable functions. Classic Stars Ruleset built including all technologies and components. Map display functional, UI design testing in progress. Design considerations on how to implement customizable graphics in progress.
