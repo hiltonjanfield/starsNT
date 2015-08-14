@@ -1,3 +1,7 @@
+NOTE 2015-Aug-13 - Development is now being resumed after months of stagnation due to heavy work loads and a brief hospitalization, followed by trying to catch up on heavy work loads in a post-surgery condition... Watch this space, or message me if you want to help and I will consider posting the un-ready version.
+
+---
+
 This repository is a placeholder. Although the project is in active development, there are no plans to upload it until a stable, usable point has been reached, OR there is significant interest from other developers in contributing.
 
 This decision has been made for two reasons. 1) The unstable, fluctuating code base which has undergone a few complete revisions since its inception, although has been fairly stable lately. 2) Due to  the numerous Stars! clone projects that have failed, stalled, or been abandoned over the last 20 years, I do not want to publicly announce or promote the project until a *minimally-playable version* is online, akin to an alpha or early beta release.
