@@ -38,4 +38,4 @@ Take your pick.
 - No Tomorrow
 - Not Tested
 - Nikki Tyler
-- *<insert witty expanded acronym of your choosing here>*
+- *[insert witty expanded acronym of your choosing here]*
