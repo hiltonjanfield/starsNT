@@ -17,7 +17,7 @@ Those wishing to learn more or contribute can contact me directly at hilton@janf
 ## Status
 
 Current development status:
-- Basic site in operation.
+- Basic site in operation (see [StarsNT Demo](http://www.janfield.ca/starsnt).
 - Ruleset editing and management systems ~60% complete.
 - Classic style map builder complete, generates maps that look very close to the original game in both standard and clumping mode (see [StarsNT Map Builder Devtoy](http://www.janfield.ca/starsnt/dev/startmaptest)).
 - Classic Stars ruleset 95% built, including all technologies and components (see [Classic Stars Ruleset](http://janfield.ca/starsnt/ruleset/1); register/login and select "Copy to Personal Library" to be able to play around with the editor).
